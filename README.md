@@ -6,4 +6,7 @@
 
 ⏰ Updated on Sun, 11 May 2025 07:46:58 GMT
 
-![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
+
+### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/xuexixuexijpg/xuexixuexijpg/main/assets/github-contribution-grid-snake.svg)
