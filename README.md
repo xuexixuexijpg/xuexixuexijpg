@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.69 %
+⏳ Year progress { ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 35.71 %
 
 ---
 
-⏰ Updated on Sun, 11 May 2025 06:20:12 GMT
+⏰ Updated on Sun, 11 May 2025 07:46:58 GMT
 
-### My GitHub Contributions
-
-![](https://raw.githubusercontent.com/xuexixuexijpg/xuexixuexijpg/main/assets/github-contribution-grid-snake.svg)
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
