@@ -1,12 +1,3 @@
-### Hi there 👋
-
-⏳ Year progress { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 58.10 %
-
----
-
-⏰ Updated on Fri, 01 Aug 2025 01:10:19 GMT
-
----
 ### My GitHub Contributions
 
 ![](https://raw.githubusercontent.com/xuexixuexijpg/xuexixuexijpg/main/assets/github-contribution-grid-snake.svg)
